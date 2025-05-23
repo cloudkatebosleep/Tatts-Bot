@@ -13,7 +13,7 @@ import datetime
 from PIL import Image, ImageDraw, ImageFont
 from datetime import timedelta   
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with the token you obtained from BotFather
-bot = TeleBot('U BOT TOKEN')
+bot = TeleBot('8107597122:AAHs2ORlXQLxMsyAj-VwJCi8MaWlQ9EqRGs')
 
 # Set the timezone to Nicosia, Cyprus (GMT+3)
 tz = pytz.timezone('Asia/Nicosia') 
